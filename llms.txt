@@ -1,0 +1,139 @@
+# Syvora
+
+> Product studio: strategy, design, and engineering. 64 engineers across Blockchain & Web3, Full Stack Engineering, ServiceNow, and Extended Capabilities.
+
+## Practices
+- [Blockchain & Web3](https://syvora.com/practices/blockchain-web3/): Protocol, contracts, DeFi, tokenization, wallets, and security across the full on-chain stack.
+- [Full Stack Engineering](https://syvora.com/practices/full-stack-engineering/): Web applications, APIs, cloud infrastructure, commerce, and the product layer around every system we ship.
+- [ServiceNow](https://syvora.com/practices/servicenow/): ITSM, ITOM, HRSD, custom applications, integrations, and SLA-backed managed services on the Now Platform.
+- [Extended Capabilities](https://syvora.com/practices/extended-capabilities/): AI automation, mobile, data, platform engineering, QA, and growth that plug into any engagement.
+
+## Services
+- [Smart Contract Development](https://syvora.com/services/smart-contract-development/): Solidity, Rust, and Move systems designed, tested, and hardened before mainnet.
+- [Protocol & Token Design](https://syvora.com/services/protocol-token-design/): Tokenomics, value flow mapping, and incentive modeling before a single contract is written.
+- [DeFi Development](https://syvora.com/services/defi-development/): AMMs, lending markets, staking, vaults, and derivatives infrastructure built to hold value.
+- [Tokenization & RWA](https://syvora.com/services/tokenization-rwa/): Asset tokenization rails with compliance-aware architecture from day one.
+- [Cross-Chain & Interoperability](https://syvora.com/services/cross-chain-interoperability/): Bridges, messaging layers, and coordinated multichain deployments.
+- [Wallets & Account Abstraction](https://syvora.com/services/wallet-account-abstraction/): Embedded wallets, gasless flows, session keys, and onboarding UX that converts.
+- [Security & Audit Readiness](https://syvora.com/services/smart-contract-audit-readiness/): Internal reviews, fuzzing, invariant testing, and external audit management.
+- [On-Chain Data & Indexing](https://syvora.com/services/blockchain-indexing-data/): Subgraphs, custom indexers, analytics pipelines, and explorers.
+- [Web Application Development](https://syvora.com/services/web-application-development/): React, Next.js, and TypeScript products taken from MVP to scale.
+- [API & Backend Development](https://syvora.com/services/api-backend-development/): Node.js, Python, and Go services with REST, GraphQL, and event-driven architecture.
+- [Cloud & Infrastructure](https://syvora.com/services/cloud-infrastructure/): AWS, GCP, and Cloudflare with IaC, CI/CD, and observability built in.
+- [Database & Data Layer](https://syvora.com/services/database-architecture/): PostgreSQL, MongoDB, Redis, and warehouse pipelines designed for growth.
+- [Product Design & UI Engineering](https://syvora.com/services/product-design-ui-engineering/): Design systems, component libraries, accessibility, and motion.
+- [Shopify & Commerce Engineering](https://syvora.com/services/shopify-commerce-engineering/): Shopify apps, storefronts, and checkout extensions running in production.
+- [Performance & Reliability](https://syvora.com/services/performance-reliability-engineering/): Profiling, load testing, and SLO-driven operations.
+- [Legacy Modernization](https://syvora.com/services/legacy-modernization/): Refactors and replatforms delivered without stopping the business.
+- [ServiceNow ITSM Implementation](https://syvora.com/services/servicenow-itsm-implementation/): Incident, Problem, Change, Request, and Knowledge with ITIL-aligned process design.
+- [ServiceNow ITOM & CMDB](https://syvora.com/services/servicenow-itom-cmdb/): Discovery, Service Mapping, Event Management, and CMDB health governance.
+- [ServiceNow HRSD & CSM](https://syvora.com/services/servicenow-hrsd-csm/): Employee and customer workflows delivered through portal-first experiences.
+- [ServiceNow Custom App Development](https://syvora.com/services/servicenow-custom-app-development/): Scoped applications on App Engine with Flow Designer and UI Builder.
+- [ServiceNow Integrations](https://syvora.com/services/servicenow-integrations/): Integration Hub, REST and SOAP, MID Server, and bidirectional sync with enterprise systems.
+- [Service Portal & Employee Center](https://syvora.com/services/servicenow-service-portal/): Adoption-focused experiences on top of the platform.
+- [ServiceNow Virtual Agent & AI](https://syvora.com/services/servicenow-virtual-agent-ai/): Virtual Agent, Predictive Intelligence, and Now Assist enablement.
+- [ServiceNow Managed Services](https://syvora.com/services/servicenow-managed-services/): Instance health scans, upgrade cycles, and ongoing SLA-backed support.
+- [AI & Agentic Automation](https://syvora.com/services/ai-agentic-automation/): LLM integration, RAG pipelines, and agent workflows for real business operations.
+- [Mobile App Development](https://syvora.com/services/mobile-app-development/): React Native and Flutter applications shipped to both app stores.
+- [Data Engineering & Analytics](https://syvora.com/services/data-engineering-analytics/): Pipelines, warehouses, and dashboards that make product and on-chain data usable.
+- [DevOps & Platform Engineering](https://syvora.com/services/devops-platform-engineering/): Kubernetes, Terraform, GitHub Actions, and full environment automation.
+- [QA & Test Automation](https://syvora.com/services/qa-test-automation/): Playwright, Cypress, and API test suites wired directly into CI.
+- [Technical SEO & Growth](https://syvora.com/services/technical-seo-growth/): Structured data, performance, and content architecture for organic acquisition.
+
+## Hiring
+- [Hire Ethereum Developers](https://syvora.com/hire/ethereum-developers/)
+- [Hire Solana Developers](https://syvora.com/hire/solana-developers/)
+- [Hire Base Developers](https://syvora.com/hire/base-developers/)
+- [Hire Arbitrum Developers](https://syvora.com/hire/arbitrum-developers/)
+- [Hire Polygon Developers](https://syvora.com/hire/polygon-developers/)
+- [Hire Solidity Developers](https://syvora.com/hire/solidity-developers/)
+- [Hire Rust Developers](https://syvora.com/hire/rust-developers/)
+- [Hire TypeScript Developers](https://syvora.com/hire/typescript-developers/)
+- [Hire Python Developers](https://syvora.com/hire/python-developers/)
+- [Hire Go Developers](https://syvora.com/hire/go-developers/)
+- [Hire React Developers](https://syvora.com/hire/react-developers/)
+- [Hire Next.js Developers](https://syvora.com/hire/nextjs-developers/)
+- [Hire Node.js Developers](https://syvora.com/hire/nodejs-developers/)
+- [Hire PostgreSQL Developers](https://syvora.com/hire/postgresql-developers/)
+- [Hire AWS Developers](https://syvora.com/hire/aws-developers/)
+- [Hire Google Cloud Developers](https://syvora.com/hire/gcp-developers/)
+- [Hire Cloudflare Developers](https://syvora.com/hire/cloudflare-developers/)
+- [Hire Kubernetes Developers](https://syvora.com/hire/kubernetes-developers/)
+- [Hire Shopify Developers](https://syvora.com/hire/shopify-developers/)
+- [Hire React Native Developers](https://syvora.com/hire/react-native-developers/)
+- [Hire Flutter Developers](https://syvora.com/hire/flutter-developers/)
+- [Hire n8n Developers](https://syvora.com/hire/n8n-developers/)
+- [Hire ServiceNow Developers](https://syvora.com/hire/servicenow-developers/)
+
+## Industries
+- [Fintech](https://syvora.com/industries/fintech/)
+- [E-commerce & Retail](https://syvora.com/industries/ecommerce-retail/)
+- [Real Estate & RWA](https://syvora.com/industries/real-estate/)
+- [Gaming & Interactive](https://syvora.com/industries/gaming/)
+- [Healthtech](https://syvora.com/industries/healthtech/)
+- [SaaS](https://syvora.com/industries/saas/)
+- [Enterprise IT](https://syvora.com/industries/enterprise-it/)
+- [Logistics & Supply Chain](https://syvora.com/industries/logistics-supply-chain/)
+- [Media & Entertainment](https://syvora.com/industries/media-entertainment/)
+- [Marketplaces](https://syvora.com/industries/marketplaces/)
+
+## Guides & Comparisons
+- [Smart Contract Audit Cost](https://syvora.com/guides/smart-contract-audit-cost/): indicative range $15K to $120K+
+- [MVP Development Cost](https://syvora.com/guides/mvp-development-cost/): indicative range $40K to $150K
+- [Shopify App Development Cost](https://syvora.com/guides/shopify-app-development-cost/): indicative range $15K to $60K+
+- [ServiceNow Implementation Cost](https://syvora.com/guides/servicenow-implementation-cost/): indicative range $60K to $250K+
+- [Mobile App Development Cost](https://syvora.com/guides/mobile-app-development-cost/): indicative range $50K to $200K+
+- [DeFi Protocol Development Cost](https://syvora.com/guides/defi-protocol-development-cost/): indicative range $80K to $400K+
+- [Token Launch Cost](https://syvora.com/guides/token-launch-cost/): indicative range $60K to $300K+
+- [Web Application Development Cost](https://syvora.com/guides/web-application-development-cost/): indicative range $40K to $180K+
+- [React Native vs Flutter](https://syvora.com/compare/react-native-vs-flutter/)
+- [Solidity vs Rust](https://syvora.com/compare/solidity-vs-rust/)
+- [Ethereum vs Solana](https://syvora.com/compare/ethereum-vs-solana/)
+- [Base vs Arbitrum](https://syvora.com/compare/base-vs-arbitrum/)
+- [AWS vs Google Cloud](https://syvora.com/compare/aws-vs-gcp/)
+- [AWS vs Cloudflare](https://syvora.com/compare/aws-vs-cloudflare/)
+- [PostgreSQL vs MongoDB](https://syvora.com/compare/postgresql-vs-mongodb/)
+- [Node.js vs Go](https://syvora.com/compare/nodejs-vs-go/)
+- [Kubernetes vs Serverless](https://syvora.com/compare/kubernetes-vs-serverless/)
+- [Playwright vs Cypress](https://syvora.com/compare/playwright-vs-cypress/)
+- [n8n vs Zapier](https://syvora.com/compare/n8n-vs-zapier/)
+- [TypeScript vs JavaScript](https://syvora.com/compare/typescript-vs-javascript/)
+
+## Glossary
+- [Account Abstraction](https://syvora.com/glossary/account-abstraction/): A model where blockchain accounts are smart contracts instead of raw key pairs, enabling features like sponsored gas, session keys, and recovery without seed phrases.
+- [ERC-4337](https://syvora.com/glossary/erc-4337/): The Ethereum standard that enables smart contract accounts without protocol changes, using a separate mempool of UserOperations processed by bundlers.
+- [AMM (Automated Market Maker)](https://syvora.com/glossary/amm/): A decentralized exchange mechanism where liquidity pools and a pricing formula replace order books, letting anyone trade against pooled assets.
+- [TVL (Total Value Locked)](https://syvora.com/glossary/tvl/): The total value of assets deposited in a protocol's contracts, used as the standard measure of DeFi protocol scale.
+- [RWA Tokenization](https://syvora.com/glossary/rwa-tokenization/): Representing real world assets such as funds, credit, or property as on-chain tokens with legally enforced transfer rules.
+- [ZK Rollup](https://syvora.com/glossary/zk-rollup/): A layer 2 that executes transactions off-chain and posts validity proofs to the base chain, inheriting its security with far lower costs.
+- [Optimistic Rollup](https://syvora.com/glossary/optimistic-rollup/): A layer 2 that posts transactions to the base chain and assumes validity unless challenged during a dispute window.
+- [MEV (Maximal Extractable Value)](https://syvora.com/glossary/mev/): Value extracted by reordering, inserting, or censoring transactions within a block, affecting protocols through sandwiching and liquidation races.
+- [Oracle](https://syvora.com/glossary/oracle/): Infrastructure that brings off-chain data such as prices on-chain for contracts to consume.
+- [Subgraph](https://syvora.com/glossary/subgraph/): An indexing definition on The Graph that transforms raw chain events into queryable GraphQL entities.
+- [Chain Reorganization](https://syvora.com/glossary/chain-reorg/): When a blockchain replaces recent blocks with a competing branch, invalidating transactions applications may have already processed.
+- [Multisig](https://syvora.com/glossary/multisig/): A wallet requiring multiple signatures to execute, standard for treasuries and protocol administration.
+- [Timelock](https://syvora.com/glossary/timelock/): A contract that delays administrative actions by a fixed period after they are queued, giving users time to react to changes.
+- [Gas Sponsorship](https://syvora.com/glossary/gas-sponsorship/): Paying transaction fees on behalf of users through paymasters, removing the largest onboarding objection in consumer crypto.
+- [Invariant Testing](https://syvora.com/glossary/invariant-testing/): Property-based testing that asserts conditions which must always hold, such as conservation of funds, across randomized sequences of operations.
+- [Fuzzing](https://syvora.com/glossary/fuzzing/): Automatically generating large volumes of randomized inputs to discover edge cases and crashes humans would not think to write.
+- [Session Keys](https://syvora.com/glossary/session-keys/): Scoped, temporary signing keys that let a user approve a category of actions once instead of confirming every transaction.
+- [CMDB (Configuration Management Database)](https://syvora.com/glossary/cmdb/): The system of record for IT assets and their relationships, underpinning impact analysis, change risk, and incident triage.
+- [ITSM (IT Service Management)](https://syvora.com/glossary/itsm/): The discipline of running IT as defined services: incidents, problems, changes, requests, and knowledge.
+- [ITOM (IT Operations Management)](https://syvora.com/glossary/itom/): The operational layer above the CMDB: discovery, service mapping, and event management that keep infrastructure visible and alert noise actionable.
+- [HRSD (HR Service Delivery)](https://syvora.com/glossary/hrsd/): ServiceNow's HR case, knowledge, and lifecycle-event platform, giving employees one front door for HR while keeping sensitive cases confidential.
+- [MID Server](https://syvora.com/glossary/mid-server/): A ServiceNow agent installed inside your network that lets the platform reach systems behind the firewall for discovery and integrations.
+- [Flow Designer](https://syvora.com/glossary/flow-designer/): ServiceNow's low-code automation builder for approvals, tasks, and integrations without scripting.
+- [Now Assist](https://syvora.com/glossary/now-assist/): ServiceNow's generative AI layer: case summarization, resolution notes, and agent assistance across workflows.
+- [Service Catalog](https://syvora.com/glossary/service-catalog/): The storefront of requestable IT and business services, backed by fulfillment automation.
+- [ATF (Automated Test Framework)](https://syvora.com/glossary/atf/): ServiceNow's native test automation, used to protect configurations and custom apps through upgrades.
+- [RAG (Retrieval-Augmented Generation)](https://syvora.com/glossary/rag/): An AI architecture where a model retrieves relevant documents before answering, grounding output in your actual data instead of training memory.
+- [Agentic Workflow](https://syvora.com/glossary/agentic-workflow/): An automation where an AI model plans and executes multi-step tasks using tools, with permissions and human approval gates on consequential actions.
+- [LLM Evaluation](https://syvora.com/glossary/llm-evaluation/): Testing AI outputs against golden datasets and scoring criteria so model or prompt changes cannot silently degrade quality.
+- [Human-in-the-Loop](https://syvora.com/glossary/human-in-the-loop/): An automation pattern where defined steps pause for human review before execution, typically for consequential or ambiguous actions.
+- [Strangler Pattern](https://syvora.com/glossary/strangler-pattern/): A modernization strategy where new capabilities are built beside a legacy system and traffic shifts gradually until the old system can be retired.
+- [Core Web Vitals](https://syvora.com/glossary/core-web-vitals/): Google's user-experience metrics covering loading, interactivity, and visual stability, which affect both rankings and conversion.
+- [Programmatic SEO](https://syvora.com/glossary/programmatic-seo/): Generating many high-quality pages from structured data to capture long-tail search demand, such as services by technology or comparisons.
+- [SLO (Service Level Objective)](https://syvora.com/glossary/slo/): A target for service reliability, such as 99.9 percent of requests under 300ms, that turns uptime from a feeling into a budget.
+- [Canary Deployment](https://syvora.com/glossary/canary-deployment/): Releasing a change to a small slice of traffic first, watching real metrics, then rolling forward or back.
+- [GitOps](https://syvora.com/glossary/gitops/): Operating infrastructure and deployments through pull requests, with a controller reconciling the cluster to what the repository declares.
+- [Headless Commerce](https://syvora.com/glossary/headless-commerce/): Separating the storefront frontend from the commerce backend, trading platform defaults for full experience control.
